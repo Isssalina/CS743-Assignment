@@ -7,6 +7,8 @@ INSTRUCTIONS:
  - This is a Java executable file. In order to run it, you must have Java installed.
  - Use this address to install Java if it is not already on your system: 
  	https://java.com/en/download/help/download_options.html
+ - Please right-click the folder and select Run in the terminal
+  > Enter 'java -jar Idea-CS743-Assignment.jar' to start the program.
  - This project is expecting an input file
  	> The exact path and name of the file must be specified in the console such as 
  		./test.txt if in same directory
