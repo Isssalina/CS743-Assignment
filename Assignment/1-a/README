@@ -19,7 +19,7 @@ INSTRUCTIONS:
     So please note: If you want to restart the test completely, delete the generated files.
     
 FORMAT:
- - To start this program, please input 0 or 1 according to the program output.
+ - After starting the program, please input 0 or 1 according to the program output.
   > Please do not enter 1 before adding the child information.
  - To add a child:
   > The delimiter expected between the information is a comma
