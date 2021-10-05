@@ -15,8 +15,17 @@ INSTRUCTIONS:
  - IMPORTANT: 
     The content in the log file generated after the test will not be overwritten after the next test. 
     So please note: If you want to restart the test completely, delete the generated files.
-
-
+    
+FORMAT:
+ - To start this program, please input 0 or 1 according to the program output.
+  > Please do not enter 1 before adding the child information.
+ - To add a child:
+  > The delimiter expected between the information is a comma
+ 	> The Name must be between 2 and 20 characters
+ 	> The ID must be an integer between 100 and 999
+ 	> The age must be between 2 and 60 months
+ - To Remove a child, please enter the id of the child.
+ 
  
  
  
